@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659470612 source:c:\users\assassin\desktop\c&c++_hub\queue_with_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
